@@ -59,3 +59,5 @@ typings/
 
 # .DS_Store files
 .DS_Store
+
+server/db/config/config.json
